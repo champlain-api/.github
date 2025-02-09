@@ -1,4 +1,4 @@
-# Open Source Champlain
+# Champlain API
 We're building an open API for our school to allow for a centralized development experience.
 
 ## What are we expecting to add?
